@@ -133,4 +133,9 @@ data
 
 # Add roughwork
 rough.ipynb
-rough1
+rough1.ipynb
+rough_1.ipynb
+bert_app.py
+
+# Add models
+models
