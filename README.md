@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/110474324/211333024-42019867-13fb-494f-8129-379fcbbab45d.png)
+
+
 # Capstone-Project---Consumer-Complaints
 ## Overview
 #### Our study  will assist financial institutions  in identifying the types of complaints for resolution, leading to increased customer satisfaction to drive revenue and profitability.
@@ -41,11 +44,11 @@ https://docs.google.com/document/d/1ywXDHODoqUpEeNct7-XyqQsS9729d5PYkhZMwfas_is/
 
 Special thanks to our Moringa School Data science Techincal Mentors for their guidance throughout the process of our project and the amazing Elites team members :point_down:
 
-* [Teofilo Gafna](https://github.com/Azegele)
+* [Teofilo Gafna](https://github.com/teofizzy)
 * [Daniel Kimutai](https://github.com/danielkimutai)
-* [Majorie Opiyo](https://github.com/GraceA2022)
-* [chris_kinyajui](https://github.com/juliakaranja)
-*
+* [Majorie Opiyo](https://github.com/Opiyow)
+* [chris_kinyanjui]
+
 
 
 
