@@ -3,6 +3,12 @@
 #### Our study  will assist financial institutions  in identifying the types of complaints for resolution, leading to increased customer satisfaction to drive revenue and profitability.
 ## General Objective
 #### To predict the likelihood of consumers disputing complaints responses made by financial service providers regarding products and services.
+## Project Success Criteria
+####-  Correctly classify issues as either disputed or undisputed with an accuracy score 70%
+####-
+
+
+
 ## Features
 #### The data set includes fields that represent consumer complaints across different banks and financial institutions The dataset contains 3147570 rows and 18 columns with no duplicates.
 Date received: 
