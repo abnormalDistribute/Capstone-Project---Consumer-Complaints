@@ -1,7 +1,6 @@
-![image](https://user-images.githubusercontent.com/110474324/211333024-42019867-13fb-494f-8129-379fcbbab45d.png)
-
 
 # Capstone-Project---Consumer-Complaints
+   ![image](https://user-images.githubusercontent.com/110474324/211333024-42019867-13fb-494f-8129-379fcbbab45d.png)
 ## Overview
 #### Our study  will assist financial institutions  in identifying the types of complaints for resolution, leading to increased customer satisfaction to drive revenue and profitability.
 ## General Objective
