@@ -41,7 +41,7 @@ https://docs.google.com/document/d/1ywXDHODoqUpEeNct7-XyqQsS9729d5PYkhZMwfas_is/
 https://docs.google.com/document/d/1ywXDHODoqUpEeNct7-XyqQsS9729d5PYkhZMwfas_is/edit#
 ### Author and Aknowledgement:
 
-Special thanks to our Moringa School Data science Techincal Mentors for their guidance throughout the process of our project and the amazing Elites team members :point_down:
+Special thanks to our Moringa School Data science Techincal Mentors for their guidance throughout the process of our project and the abnormal distribute team members :point_down:
 
 * [Teofilo Gafna](https://github.com/teofizzy)
 * [Daniel Kimutai](https://github.com/danielkimutai)
