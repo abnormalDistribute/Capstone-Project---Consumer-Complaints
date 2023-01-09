@@ -18,5 +18,12 @@ Zip code:
 Submitted via:
 Tags: 
 Consumer consent provided
+## Data Preparation
+## The following steps were followed in preparing the data;
+#### Checking for validity
+#### Checking for consistency of data
+#### Checking for data uniformity
+#### Checking for completeness of the data
+
 
 
