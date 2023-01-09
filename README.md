@@ -37,6 +37,15 @@ https://docs.google.com/document/d/1ywXDHODoqUpEeNct7-XyqQsS9729d5PYkhZMwfas_is/
 ### Bivariate Analysis
 ####  Here we will analyze two columns against each other with the aim of getting  more information and establishing patterns
 https://docs.google.com/document/d/1ywXDHODoqUpEeNct7-XyqQsS9729d5PYkhZMwfas_is/edit#
+### Author and Aknowledgement:
+
+Special thanks to our Moringa School Data science Techincal Mentors for their guidance throughout the process of our project and the amazing Elites team members :point_down:
+
+* [Teofilo Gafna](https://github.com/Azegele)
+* [Daniel Kimutai](https://github.com/danielkimutai)
+* [Majorie Opiyo](https://github.com/GraceA2022)
+* [chris_kinyajui](https://github.com/juliakaranja)
+*
 
 
 
