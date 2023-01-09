@@ -24,6 +24,13 @@ Consumer consent provided
 #### Checking for consistency of data
 #### Checking for data uniformity
 #### Checking for completeness of the data
+## Explatory Data Analysis
+### Univariate Analysis
+#### We shall analyze individual columns/variables to see how it’s distributed and get patterns from the column.
+https://docs.google.com/document/d/1ywXDHODoqUpEeNct7-XyqQsS9729d5PYkhZMwfas_is/edit#
+### Bivariate Analysis
+####  Here we will analyze two columns against each other with the aim of getting  more information and establishing patterns
+https://docs.google.com/document/d/1ywXDHODoqUpEeNct7-XyqQsS9729d5PYkhZMwfas_is/edit#
 
 
 
