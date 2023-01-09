@@ -46,7 +46,7 @@ Special thanks to our Moringa School Data science Techincal Mentors for their gu
 * [Teofilo Gafna](https://github.com/teofizzy)
 * [Daniel Kimutai](https://github.com/danielkimutai)
 * [Majorie Opiyo](https://github.com/Opiyow)
-* [chris_kinyanjui]
+* [chris_kinyanjui](https://github.com/K1nyash)
 
 
 
