@@ -1,0 +1,1 @@
+{"0": "Closed", "1": "Closed with explanation", "2": "Closed with monetary relief", "3": "Closed with non-monetary relief", "4": "Untimely response"}
