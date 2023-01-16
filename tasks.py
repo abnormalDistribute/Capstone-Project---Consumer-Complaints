@@ -101,7 +101,7 @@ issue = save_file(issue_dict, 'files/', 'issues.txt')
 disputed = save_file(disputed_dict, 'files/', 'disputed.txt')
 response = save_file(company_res_dict, 'files/', 'company_response.txt')
 
-def preprocess_text(text):
+def clean_text(text):
     """ A function to preprocess text"""
     #convert Non-ASCII characters to ASCII
     text = unidecode.unidecode(text)
@@ -336,3 +336,41 @@ class test_BERT(train_BERT):
 def load_model(filepath):
     """ A function that loads the saved model"""
     return tf.keras.models.load_model(filepath)
+
+class TFBertMainLayer(tf.keras.layers.Layer):
+    """ Loading the main layer"""
+    def __init__(self, config, **kwargs):
+        super(TFBertMainLayer, self).__init__(**kwargs)
+        self.bert = TFBertModel.from_pretrained('bert-base-uncased', config=config)
+        
+    def call(self, inputs):
+        return self.bert(inputs)
+    
+def prepare_data(input_text):
+    """ A function to tokenize the text"""
+    
+        # # Load BERT tokenizer
+    # Name of the BERT model to use
+    model_name = 'bert-base-uncased'
+
+    # Max length of tokens
+    max_length = 100
+
+    # Load transformers config and set output_hidden_states to False
+    config = BertConfig.from_pretrained(model_name)
+    config.output_hidden_states = False
+
+    # Load BERT tokenizer
+    tokenizer = BertTokenizerFast.from_pretrained(pretrained_model_name_or_path = model_name, config = config)
+    token = tokenizer.encode_plus(
+      text = input_text,
+      add_special_tokens=True,
+      max_length=100,
+      truncation=True,
+      padding='max_length',
+      return_tensors='tf',
+      verbose = True)
+    return {
+     'input_ids':tf.cast(token.input_ids, tf.float64),
+     'attention_mask': tf.cast(token.attention_mask, tf.float64)
+  }
