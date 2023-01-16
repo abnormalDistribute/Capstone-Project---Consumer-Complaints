@@ -37,6 +37,15 @@ Correctly classify complaints to targets (company_response_to_consumer, consumer
 ### Bivariate Analysis
 ####  Here we will analyze two columns against each other with the aim of getting  more information and establishing patterns
 [link](https://docs.google.com/document/d/1ywXDHODoqUpEeNct7-XyqQsS9729d5PYkhZMwfas_is/edit#)
+## Modelling
+In this section, we built classification models using Bidirectional Encoder Representations from Transformers.
+The technologies used include:
+* Bert-base-uncased
+* Albert-base-v2
+### Model Evaluation
+The models were evaluated using the metrics from the training logs that are stored in the tensorboards below:
+* [tuned Bert-base-uncased](https://tensorboard.dev/experiment/mJDC3OFvS6mc5eafVhDEDg/#scalars) 
+* [tuned albert-base-v2](https://tensorboard.dev/experiment/LQdz2432QDSMyidy6HAdRQ/#scalars)
 ### Authors and Aknowledgement:
 
 Special thanks to our Moringa School Data science Techincal Mentors for their guidance throughout the process of our project and the abnormal distribute team members :point_down:
